@@ -4,13 +4,13 @@ color:#434455;background-color:#FFFFFF;
 .logo{font-family:"Raleway",sans-serif; font-weight: 700; font-size:18px; line-height: 1.17; letter-spacing: 0.03em; text-transform: uppercase;color:#4e5ae5;}
 .header-span{color:#2e2f42}
 .footer-span{color: #f4f4fd;}
-.button{background-color: #4D5AE5;
+.button{background-color: #4D5AE5;cursor: pointer
     font-family:"Roboto",sans-serif;
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #ffffff;
-    background-color: #404BBF
+    background-color:hover #404BBF
 }
 .p{ letter-spacing: 0.02em;color:#F4F4FD; line-height: 1.5}
 .footer{background-color:#2e2f42}
@@ -18,7 +18,7 @@ color:#434455;background-color:#FFFFFF;
 .first-link:hover{color:#404bbf}
 .first-link:active{color:#404bbf}
 .address{}
-.hero{font-size: 56px;font-size: 56px;text-align: center;letter-spacing: 0.02em;color: #ffffff}
+.hero{font-size: 56px;text-align: center;letter-spacing: 0.02em;color: #ffffff;line-height: 1.07}
 .section1{background-color: #2e2f42;}
 .section2{}
 .section3{}
