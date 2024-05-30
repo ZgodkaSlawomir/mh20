@@ -16,3 +16,5 @@ color:#434455;background-color:#FFFFFF;
 .p{styl letter-spacing: 0.02em;color:#F4F4FD;styl line-height: 1.5}
 .footer{background-color:#2e2f42}
 .first-link{line-height: 1.5;line-height: 1.5;color:#2e2f42; font-weight: 500;letter-spacing: 0.02em;}
+.first-link:hover{color:#404bbf}
+.first-link:active{color:#404bbf}
