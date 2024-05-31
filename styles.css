@@ -19,7 +19,7 @@ color:#434455;background-color:#FFFFFF;
 .hero{font-size: 56px;text-align: center;letter-spacing: 0.02em;color: #ffffff;line-height: 1.07}
 .section1{background-color: #2e2f42;}
 .section2{}
-.section3{}
+.section3{background-color: #F4F4FD;}
 .button:hover{background-color: #404BBF;}
 .button:active{background-color: #404BBF;}
 .footer-logo{color:#4d5ae5;font-family:"Raleway",sans-serif; font-weight: 700; font-size:18px; line-height: 1.17; letter-spacing: 0.03em; text-transform: uppercase;}
@@ -30,3 +30,7 @@ color:#434455;background-color:#FFFFFF;
 .section2-h2{font-weight: 500;font-size: 20px;line-height: 1.2;letter-spacing: 0.02em;color: #2e2f42;}
 .section2-h3{font-weight: 500;font-size: 20px;line-height: 1.2;letter-spacing: 0.02em;color: #2e2f42;}
 .section2-p{ line-height: 1.5;letter-spacing: 0.02em}
+.section3-h2{font-size: 36px;line-height: 1.11; styl text-align: center;styl letter-spacing: 0.02em;text-transform: capitalize;color:#2e2f42;}
+.section3-h3{font-weight: 500;font-size: 20px;line-height: 1.2;letter-spacing: 0.02em;color: #2e2f42;}
+.section3-p{styl font-size: 16px;line-height: 1.5;letter-spacing: 0.02em}
+.section3-list{background-color: #FFFFFF}
