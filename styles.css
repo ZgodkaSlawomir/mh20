@@ -30,7 +30,7 @@ color:#434455;background-color:#FFFFFF;
 .section2-h2{font-weight: 500;font-size: 20px;line-height: 1.2;letter-spacing: 0.02em;color: #2e2f42;}
 .section2-h3{font-weight: 500;font-size: 20px;line-height: 1.2;letter-spacing: 0.02em;color: #2e2f42;}
 .section2-p{ line-height: 1.5;letter-spacing: 0.02em}
-.section3-h2{font-size: 36px;line-height: 1.11; styl text-align: center;styl letter-spacing: 0.02em;text-transform: capitalize;color:#2e2f42;}
+.section3-h2{font-size: 36px;line-height: 1.11;text-align: center;letter-spacing: 0.02em;text-transform: capitalize;color:#2e2f42;}
 .section3-h3{font-weight: 500;font-size: 20px;line-height: 1.2;letter-spacing: 0.02em;color: #2e2f42;}
-.section3-p{styl font-size: 16px;line-height: 1.5;letter-spacing: 0.02em}
+.section3-p{font-size: 16px;line-height: 1.5;letter-spacing: 0.02em}
 .section3-list{background-color: #FFFFFF}
