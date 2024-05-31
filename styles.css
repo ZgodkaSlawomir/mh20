@@ -26,7 +26,7 @@ color:#434455;background-color:#FFFFFF;
 .footer-p{line-height: 1.5; letter-spacing: 0.02em;color:#F4F4FD}
 .address-link{line-height: 1.5;letter-spacing: 0.02em;color:#434455;}
 .address-link:hover{color:#404bbf}
-.address-link:active{color:#404bbf}
+.address-link .link:active{color:#404bbf}
 .section2-h2{font-weight: 500;font-size: 20px;line-height: 1.2;letter-spacing: 0.02em;color: #2e2f42;}
 .section2-h3{font-weight: 500;font-size: 20px;line-height: 1.2;letter-spacing: 0.02em;color: #2e2f42;}
 .section2-p{ line-height: 1.5;letter-spacing: 0.02em}
