@@ -1,6 +1,5 @@
 .body{font-family:"Roboto",sans-serif;
-color:#434455;background-color:#FFFFFF;
-}
+color:#434455;background-color:#FFFFFF;}
 .logo{font-family:"Raleway",sans-serif; font-weight: 700; font-size:18px; line-height: 1.17; letter-spacing: 0.03em; text-transform: uppercase;}
 .header-span{color:#2e2f42}
 .footer-span{color: #f4f4fd;}
@@ -19,7 +18,7 @@ color:#434455;background-color:#FFFFFF;
 .address{font-style: normal;}
 .hero{font-size: 56px;text-align: center;letter-spacing: 0.02em;color: #ffffff;line-height: 1.07}
 .section1{background-color: #2e2f42;}
-.section2{}
+.section2-list{font-weight: 500; font-size: 20px;line-height: 1.2;letter-spacing: 0.02em;color:#2e2f42}
 .section3{background-color: #F4F4FD;}
 .button:hover{background-color: #404BBF;}
 .button:active{background-color: #404BBF;}
@@ -35,4 +34,3 @@ color:#434455;background-color:#FFFFFF;
 .section3-h3{font-weight: 500;font-size: 20px;line-height: 1.2;letter-spacing: 0.02em;color: #2e2f42;}
 .section3-p{font-size: 16px;line-height: 1.5;letter-spacing: 0.02em}
 .section3-list{background-color: #FFFFFF}
-.section4:.section3
