@@ -3,7 +3,7 @@ color:#434455;background-color:#FFFFFF;}
 .logo{font-family:"Raleway",sans-serif; font-weight: 700; font-size:18px; line-height: 1.17; letter-spacing: 0.03em; text-transform: uppercase;}
 .header-span{color:#2e2f42}
 .footer-span{color: #f4f4fd;}
-.header-span .logo-text{color:#4e5ae5;}
+.header-text{color:#4e5ae5;}
 .button{background-color: #4D5AE5;cursor: pointer;
     font-family:"Roboto",sans-serif;
     font-weight: 500;
