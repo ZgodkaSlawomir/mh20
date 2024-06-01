@@ -4,7 +4,7 @@ color:#434455;background-color:#FFFFFF;}
 .header-span{color:#2e2f42}
 .footer-span{color: #f4f4fd;}
 .header-span .logo-text{color:#4e5ae5;}
-.button{background-color: #4D5AE5;cursor: pointer;
+.button{cursor: pointer;
     font-family:"Roboto",sans-serif;
     font-weight: 500;
     line-height: 1.5;
