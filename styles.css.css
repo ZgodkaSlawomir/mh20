@@ -13,8 +13,8 @@ color:#434455;background-color:#FFFFFF;}
 .p{letter-spacing: 0.02em;color:#F4F4FD; line-height: 1.5;font-size: 16px;line-height: 1.5;letter-spacing: 0.02em}
 .footer{background-color:#2e2f42}
 .first-link{line-height: 1.5;line-height: 1.5;color:#2e2f42; font-weight: 500;letter-spacing: 0.02em;}
-.first-list:active{color:#404bbf}
-.first-list:hover{color:#404bbf}
+.first-link:active{color:#404bbf}
+.first-link:hover{color:#404bbf}
 .nav-list-item{line-height: 1.5;line-height: 1.5;color:#2e2f42; font-weight: 500;letter-spacing: 0.02em;}
 .nav-list-item::view-transition{color: #404bbf}
 .address{font-style: normal;}
@@ -24,8 +24,8 @@ color:#434455;background-color:#FFFFFF;}
 .footer-logo{color:#4d5ae5;font-family:"Raleway",sans-serif; font-weight: 700; font-size:18px; line-height: 1.17; letter-spacing: 0.03em; text-transform: uppercase;}
 .footer-p{line-height: 1.5; letter-spacing: 0.02em;color:#F4F4FD}
 .address-link{line-height: 1.5;letter-spacing: 0.02em;color:#434455;}
-.address-list:active{color:#404bbf}
 .address-list:hover{color:#404bbf}
+.address-list:active{color:#404bbf}
 .section-one{background-color: #2e2f42;}
 .nav-list-item:active{color:#404bbf}
 .nav-list-item:hover{color:#404BBF}
