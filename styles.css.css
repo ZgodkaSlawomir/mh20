@@ -30,7 +30,7 @@ color:#434455;background-color:#FFFFFF;}
 .section-one{background-color: #2e2f42;}
 .nav-list-item:active{color:#404BBF;}
 .nav-list-item:hover{color:#404BBF;}
-.section-list{font-weight: 500; font-size: 20px;line-height: 1.2;letter-spacing: 0.02em;color:#2e2f42;}
+.section-list{font-weight: 500; font-size: 20px;line-height: 1.2;background-color: #FFFFFF;letter-spacing: 0.02em;color:#2e2f42;}
 .section2-nag{target:blank;}
 .section-nag{background-color: #F4F4FD;}
 .section3{background-color: #F4F4FD;}
